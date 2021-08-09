@@ -56,6 +56,11 @@ button {
     color: white;
 }
 
+
+input{
+    padding: 5px;
+}
+
 li {
     color: rgb(17, 17, 104);
 
